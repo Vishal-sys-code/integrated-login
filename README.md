@@ -1,4 +1,7 @@
-# HashNode Project
+# **HASHNODE HACKATHON PROJECT**
+
+<hr>
+
 # Integrated LogIn Button
 It is a project in which a LogIn button is authenticated by Auth-0.
 
